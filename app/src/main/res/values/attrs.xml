@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <declare-styleable name="ErrorViewStyle">-->
+<!--        <attr name="ev_style" format="reference" />-->
+<!--    </declare-styleable>-->
+
+    <declare-styleable name="StateView">
+        <attr name="state_image" format="reference" />
+        <attr name="state_imageTint" format="color" />
+        <attr name="state_imageVisible" format="boolean" />
+        <attr name="state_imageSize" format="dimension" />
+        <attr name="state_title" format="string" />
+        <attr name="state_titleColor" format="color" />
+        <attr name="state_titleVisible" format="boolean" />
+        <attr name="state_subtitle" format="string" />
+        <attr name="state_subtitleColor" format="color" />
+        <attr name="state_subtitleVisible" format="boolean" />
+        <attr name="state_retryText" format="string" />
+        <attr name="state_retryBackground" format="reference" />
+        <attr name="state_retryColor" format="color" />
+        <attr name="state_retryVisible" format="boolean" />
+    </declare-styleable>
+</resources>

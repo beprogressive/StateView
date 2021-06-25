@@ -1,0 +1,4 @@
+<resources>
+    <string name="state_view_oops">Oops</string>
+    <string name="state_view_retry">RETRY</string>
+</resources>
