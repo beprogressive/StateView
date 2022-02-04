@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorSecondary">#FF4000</color>
+    <color name="colorPrimaryDark">#fff</color>
+    <color name="colorText">#222</color>
+    <color name="colorAccent">#FF4000</color>
+    <color name="colorSecondaryVariant">#FF4000</color>
+    <color name="colorSpinProgress">#ddd</color>
+    <color name="colorSubText">#404040</color>
+</resources>
